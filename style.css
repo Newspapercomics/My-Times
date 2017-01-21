@@ -25,14 +25,25 @@ nav span{
   color: black;
   padding-right: 40px;
 }
+
+.container {
+  display: flex;
+  border: 1px solid black;
+}
 .column.large {
   width: 630px;
+  display: flex;
+  border: 1px solid black;
 }
 
 .column.medium {
   width: 300px;
+  display: flex;
+  border: 1px solid black;
 }
 
 .column.small {
   width: 240px;
+  display: flex;
+  border: 1px solid black;
 }
