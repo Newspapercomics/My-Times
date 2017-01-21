@@ -1,0 +1,17 @@
+h1 {
+  font-family: Verdana;
+  font-size: 14px;
+  font-weight: bold;
+  color: MediumAquamarine;
+  display: flex;
+  margin: 0;
+}
+.logo {
+  display: flex;
+}
+nav span{
+  display: inline-flex;
+  font-family: Verdana;
+  text-align: right;
+  font-weight: bold;
+}
