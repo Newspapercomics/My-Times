@@ -33,6 +33,7 @@ nav span{
 }
 .column.large {
   width: 630px;
+  padding-right: 70px;
 }
 .column.medium {
   width: 300px;
@@ -52,6 +53,10 @@ h1 {
   height: 300px;
   display: flex;
   position: static;
+}
+.article {
+  width: 40%;
+  display: flex;
 }
 h3 {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
