@@ -58,3 +58,9 @@ h1 {
   display: flex;
   border: 1px solid black;
 }
+
+stories {
+  font-family: Georgia;
+  font-size: 17px;
+  color: black;
+}
