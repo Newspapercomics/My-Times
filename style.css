@@ -35,6 +35,16 @@ nav span{
   width: 630px;
   display: flex;
   border: 1px solid black;
+  align-items: center;
+}
+
+h1 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  display: flex;
 }
 
 .column.medium {
