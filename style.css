@@ -42,6 +42,34 @@ h1 {
   background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-main.png);
   font-family: Georgia;
   font-weight: bold;
+  font-size: 40px;
+  color: white;
+  display: flex;
+}
+h3 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-1.png);
+    font-family: Georgia;
+    font-weight: bold;
+    font-size: 30px;
+    color: white;
+    display: flex;
+}
+h2 {
+  display: block;
+}
+h5 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-2.png);
+  font-family: Georgia;
+  font-weight: bold;
+  font-size: 30px;
+  color: white;
+  display: flex;
+}
+
+h6 {
+  background-image: url(https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-4/img-story-3.png);
+  font-family: Georgia;
+  font-weight: bold;
   font-size: 30px;
   color: white;
   display: flex;
@@ -63,4 +91,8 @@ stories {
   font-family: Georgia;
   font-size: 17px;
   color: black;
+  display: flex;
+}
+img {
+  display: inline-flex;
 }
